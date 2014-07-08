@@ -2,6 +2,7 @@
 	"mods": [
 		{"mod-id": "CheatMod-kristof1104",
 		"mod-name": "CheatMod by kristof1104",
+		"mod-folder": "CheatMod",
 		"mod-version": "1.0.5",
 		"mod-status": "Released",
 		"mod-downloadlink": "https://raw.githubusercontent.com/kristof1104/CheatMod/master/CheatMod.zip",
@@ -9,6 +10,7 @@
 
 		{"mod-id": "CompetitorMod-kristof1104",
 		"mod-name": "CompetitorMod by kristof1104",
+		"mod-folder": "CompetitorMod",
 		"mod-version": "0.1.0",
 		"mod-status": "WIP",
 		"mod-downloadlink": "https://raw.githubusercontent.com/kristof1104/CompetitorMod/master/CompetitorMod.zip",
