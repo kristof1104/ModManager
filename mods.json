@@ -4,14 +4,14 @@
 		"mod-name": "CheatMod by kristof1104",
 		"mod-version": "1.0.5",
 		"mod-status": "Released",
-		"mod-downloadlink": "https://raw.github.com/kristof1104/CheatMod/master/CheatMod.zip",
+		"mod-downloadlink": "https://raw.githubusercontent.com/kristof1104/CheatMod/master/CheatMod.zip","mods/ModManager/downloads/CheatMod.zip",
 		"mod-description": "A Mod for Game Dev Tycoon which provides users all kind of cheats."},
 
 		{"mod-id": "CompetitorMod-kristof1104",
 		"mod-name": "CompetitorMod by kristof1104",
 		"mod-version": "0.1.0",
 		"mod-status": "WIP",
-		"mod-downloadlink": "https://raw.github.com/kristof1104/CompetitorMod/master/CompetitorMod.zip",
+		"mod-downloadlink": "https://raw.githubusercontent.com/kristof1104/CheatMod/CompetitorMod/master/CompetitorMod.zip",
 		"mod-description": "A Mod for Game Dev Tycoon which Adds compeditors to the game"}
     ]
 }
